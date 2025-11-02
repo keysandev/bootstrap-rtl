@@ -2,6 +2,17 @@
 
 **Bootstrap right to left is at your disposal!**
 
+## To use Bootstrap 5.3.8
+
+### Add Css File
+```
+https://cdn.jsdelivr.net/gh/keysandev/bootstrap-rtl@main/5.3.8/css/bootstrap.rtl.min.css
+```
+### Add Js File
+```
+https://cdn.jsdelivr.net/gh/keysandev/bootstrap-rtl@main/5.3.8/js/bootstrap.bundle.js
+```
+
 ## To use Bootstrap 5.3.3
 
 ### Add Css File
